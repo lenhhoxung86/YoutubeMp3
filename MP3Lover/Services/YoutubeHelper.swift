@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-let YOUTUBE_API_KEY = "AIzaSyAiKurNj0sQXQx1cguGglH6yRoz5RPDClw"
+let YOUTUBE_API_KEY = "YOUR_API_KEY"
 let YOUTUBE_API_BASE_URL = "https://www.googleapis.com/youtube/v3/"
 let MAX_RESULT = 20
 
