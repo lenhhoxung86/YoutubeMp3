@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MP3Lover/Models/MP3CD+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MP3Lover/Models/MP3CD+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Volumes/MacintoshData/Projects/MP3Lover/MP3Lover.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MP3Lover.xcodeproj">
+   </FileRef>
+</Workspace>

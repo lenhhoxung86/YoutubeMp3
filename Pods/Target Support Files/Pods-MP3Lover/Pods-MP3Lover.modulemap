@@ -1,0 +1,6 @@
+framework module Pods_MP3Lover {
+  umbrella header "Pods-MP3Lover-umbrella.h"
+
+  export *
+  module * { export * }
+}
