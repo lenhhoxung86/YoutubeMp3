@@ -11,6 +11,6 @@ To run the app:
     + Enable YouTube API, get the API key then open file "YoutubeHelper.swift" and replace "YOUR_API_KEY" by your key
 - Personalize your channel (Optional): Go to SearchVC.swift and change yt_channel_id to id of your YouTube channel ID
 
-Warning: This app use XCDYouTubeKit, which doesn't not convfront to YouTube's policy
+Warning: This app use XCDYouTubeKit, which doesn't not confront to YouTube's policy
 If you like the app, please star this repository.
 Enjoy.
